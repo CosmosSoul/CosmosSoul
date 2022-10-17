@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CosmosSoul
 - 👀 I’m interested in ... Educational Game Development
-- 🌱 I’m currently learning ... Javascript and Git
+- 🌱 I’m currently learning ... C#, Unity3D, Javascript and Git
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
